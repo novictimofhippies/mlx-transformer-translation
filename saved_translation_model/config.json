@@ -1,0 +1,13 @@
+{
+  "source_vocab_size": 8000,
+  "target_vocab_size": 8002,
+  "max_sentence_len": 96,
+  "embedding_size": 256,
+  "n_encoder_decoder_blocks": 2,
+  "n_attention_heads": 8,
+  "n_units_dense": 512,
+  "pad_id": 0,
+  "unk_id": 1,
+  "start_id": 8000,
+  "end_id": 8001
+}
